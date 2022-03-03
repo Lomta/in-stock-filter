@@ -13,6 +13,10 @@ items = soup.find_all("a", {"class": "product-link _item product-grid-product-in
 links = set()
 f = open('links.txt', 'w')
 
+size_l = "write S/M/L/XL/WHICHEVERYOULIKE here"
+size_n = "number size here i guess"
+
+
 for item in items:
     url = item["href"]
     request = Request(url, headers=headers)
@@ -21,7 +25,7 @@ for item in items:
     sizeLabel = soup.find_all("div", {"class": "product-detail-size-info__size"})
     for size in sizeLabel:
         size_str = size.find("span").string
-        if size_str.find('M') != -1 or size_str.find('27') != -1:
+        if size_str.find(size_l) != -1 or size_str.find(size_n) != -1:
             if size.find("div") == None:
                 links.add(url)
                 #print(url)
