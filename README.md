@@ -2,7 +2,7 @@
 
 Ok so hear me out
 
-You finally finished that one assignment/midterm/project and it's time to [TREAT YO SEEEEELF]("https://www.youtube.com/watch?v=gSjM5B3QNlw").
+You finally finished that one assignment/midterm/project and it's time to [TREAT YO SEEEEELF](https://www.youtube.com/watch?v=gSjM5B3QNlw).
 You are still a pretty broke second year uni student, so you open the sales page of one of your fave stores and see all these cool stuff. You get so excited.
 Like you already can imagine your self in that Hello Kitty jumpsuit. You click the item to check out its page and do the cart. AND BOOM. THEY DON"T HAVE YOUR SIIIIIIZEEE. 
 *SCREAMING INTERNALLY*. 
